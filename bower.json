@@ -1,0 +1,21 @@
+{
+  "name": "DataArt-UI-Kit",
+  "version": "0.0.1",
+  "description": "DataArt.Com UI-Kit",
+  "main": "index.html",
+  "authors": [
+    "Gleb Vorontsov <vorontsov.gleb [at] gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
